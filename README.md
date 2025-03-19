@@ -2,30 +2,20 @@
 Este repositório tem fins didáticos, para a disciplina de UML
 App de Entrega de Comida
 
-Descrição
+## Descrição
 
 Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em diversas lojas, acompanharem o status da entrega em tempo real e efetuarem pagamentos de forma segura.
 
-Funcionalidades
+## Funcionalidades
 
-Cadastro e autenticação de usuário
-
-Login seguro
-
-Cadastro de endereços (usuário e loja)
-
-Escolha da forma de pagamento
-
-Adição de itens ao carrinho
-
-Confirmação do pedido
-
-Processamento e confirmação de pagamento
-
-Rastreamento de pedidos em tempo real
-
-Notificações sobre status do pedido
-
-Listagem de lojas
-
-Gestão de pedidos
+- Cadastro e autenticação de usuário
+- Login seguro
+- Cadastro de endereços (usuário e loja)
+- Escolha da forma de pagamento
+- Adição de itens ao carrinho
+- Confirmação do pedido
+- Processamento e confirmação de pagamento
+- Rastreamento de pedidos em tempo real
+- Notificações sobre status do pedido
+- Listagem de lojas
+- Gestão de pedidos
