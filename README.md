@@ -19,3 +19,6 @@ Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em 
 - Notificações sobre status do pedido
 - Listagem de lojas
 - Gestão de pedidos
+
+## Agentes
+Cliente(pedido) -> Loja(prepara-pedido) -> entrgador(envia-pedido) -> Cliente(recebe-pedido)
