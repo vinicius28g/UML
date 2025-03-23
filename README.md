@@ -24,4 +24,4 @@ Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em 
 Cliente(pedido) -> Loja(prepara-pedido) -> entrgador(envia-pedido) -> Cliente(recebe-pedido)
 
 ## Diagrama Caso de Uso 
-<img src="../UML/Templates/Captura de tela 2025-03-22 224216.png" alt="App delivery">
+<img src="![Image](https://github.com/user-attachments/assets/9f5d2f96-6471-463a-b29a-ca1e7cedfb5f)" alt="App delivery">
