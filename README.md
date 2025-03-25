@@ -2,6 +2,14 @@
 Este repositório tem fins didáticos, para a disciplina de UML
 App de Entrega de Comida
 
+## Membros
+<ul>
+  <li> Victhor Gabriel </li>
+  <li> Vinicius Guimarães</li>
+  <li> Pedro Cristóvão</li>
+  <li> Carlos Wagner</li>
+  <li> João Vitor Gonçalves</li>
+</ul>
 ## Descrição
 
 Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em diversas lojas, acompanharem o status da entrega em tempo real, e efetuarem pagamentos online de forma segura. Além disso, há funcionalidades para gerenciamento de pedidos e cupons de desconto
