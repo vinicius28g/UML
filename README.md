@@ -42,4 +42,4 @@ Demonstra as interações dos usuários (cliente, loja e entregador) com o siste
 
 Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 
-![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
+![Image](https://github.com/vinicius28g/UML/blob/main/Templates/426317982-5fcc089a-da82-4b71-9cb0-d6ab466966d9.png)
