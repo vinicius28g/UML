@@ -27,4 +27,4 @@ Cliente(pedido) -> Loja(prepara-pedido) -> entrgador(envia-pedido) -> Cliente(re
 ![Image](https://github.com/user-attachments/assets/5fcc089a-da82-4b71-9cb0-d6ab466966d9)
 
 ## Diagrama UML
-![image](https://github.com/user-attachments/assets/857f532f-d555-4334-9ae1-c53eab2ab6fb)
+![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
