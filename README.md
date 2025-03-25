@@ -24,7 +24,7 @@ Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em 
 Cliente(pedido) -> Loja(prepara-pedido) -> entrgador(envia-pedido) -> Cliente(recebe-pedido)
 
 ## Diagrama Caso de Uso 
-
+![Image](https://github.com/user-attachments/assets/5fcc089a-da82-4b71-9cb0-d6ab466966d9)
 
 ## Diagrama UML
 ![image](https://github.com/user-attachments/assets/857f532f-d555-4334-9ae1-c53eab2ab6fb)
