@@ -36,7 +36,7 @@ Cliente(pedido) -> Loja(prepara-pedido) -> entregador(envia-pedido) -> Cliente(r
 
 Demonstra as interações dos usuários (cliente, loja e entregador) com o sistema.
 
-![Image](https://github.com/vinicius28g/UML/blob/main/Templates/Captura%20de%20tela%202025-03-22%20224216.png)
+![Image](https://github.com/vinicius28g/UML/blob/main/Templates/426317982-5fcc089a-da82-4b71-9cb0-d6ab466966d9.png)
 
 ## Diagrama UML
 
