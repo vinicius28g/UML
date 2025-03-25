@@ -25,4 +25,6 @@ Cliente(pedido) -> Loja(prepara-pedido) -> entrgador(envia-pedido) -> Cliente(re
 
 ## Diagrama Caso de Uso 
 
-<img src="https://github.com/Victh0rG/UML/issues/2" alt="App delivery"> 
+
+## Diagrama UML
+![image](https://github.com/user-attachments/assets/857f532f-d555-4334-9ae1-c53eab2ab6fb)
