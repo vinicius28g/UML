@@ -17,7 +17,7 @@ Aplicativo de entrega de comida que permite aos usuários realizarem pedidos em 
 - Confirmação do pedido
 - Processamento e confirmação de pagamento
 - Notificações sobre status do pedido
-- Rastreamento da entrega de pedidos em tempo real
+- Rastreamento da entrega em tempo real
 - Listagem de lojas
 - Gestão de pedidos
 
